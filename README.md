@@ -28,7 +28,7 @@ Predicting the probability of default is essential for banks and NBFCs to manage
 ---
 
 ## 🔗 Project Assets  
-- 📂 [Full Project Code on GitHub](https://github.com/itisdiv/Probability-of-Default-Credit-Risk-Modelling)  
+- 📂 [Full Project Code on GitHub]([https://github.com/itisdiv/Probability-of-Default-Credit-Risk-Modelling](https://github.com/itisdiv/Probability-of-Default-Credit-Risk-Modelling-/blob/main/Probability%20Default%20Project_divyaverma.ipynb))  
 - 📄 [Project Documentation (Google Doc)](https://docs.google.com/document/d/1PNo-soZtDdzU0iG_qEZ6Rxp3yacSM5BRRa1WvY32g34/edit?usp=sharing)
 
 ---
