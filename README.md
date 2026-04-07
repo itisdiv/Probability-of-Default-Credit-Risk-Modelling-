@@ -50,10 +50,6 @@ Threshold tuning to balance false negatives (missed defaults) vs false positives
 - Records  100,000+
 
 ### An ROC-AUC of 0.80 means the model correctly ranks a defaulter above a non-defaulter 80% of the time — a strong baseline for a binary credit risk classifier.
----
-
-## 🔗 Project Assets  
-- 📄 [Project Documentation (Google Doc)](https://docs.google.com/document/d/1PNo-soZtDdzU0iG_qEZ6Rxp3yacSM5BRRa1WvY32g34/edit?usp=sharing)
 
 ---
 
@@ -76,5 +72,10 @@ A credit team using this model could:
 
 ## Tools & Technologies
 Python · Pandas · Scikit-learn · Matplotlib · Seaborn · Excel · SQL
-    
+
+---
+
+## 🔗 Project Assets  
+- 📄 [Project Documentation (Google Doc)](https://docs.google.com/document/d/1PNo-soZtDdzU0iG_qEZ6Rxp3yacSM5BRRa1WvY32g34/edit?usp=sharing)
+
 
