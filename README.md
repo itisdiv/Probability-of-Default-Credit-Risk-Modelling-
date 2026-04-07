@@ -45,11 +45,11 @@ Threshold tuning to balance false negatives (missed defaults) vs false positives
 ---
 
 ## Results
-ROC-AUC  0.80
-Model    Logistic Regression
-Records  100,000+
+- ROC-AUC  0.80
+- Model    Logistic Regression
+- Records  100,000+
 
-An ROC-AUC of 0.80 means the model correctly ranks a defaulter above a non-defaulter 80% of the time — a strong baseline for a binary credit risk classifier.
+### An ROC-AUC of 0.80 means the model correctly ranks a defaulter above a non-defaulter 80% of the time — a strong baseline for a binary credit risk classifier.
 ---
 
 ## 🔗 Project Assets  
